@@ -1,1 +1,1 @@
-hello javascript
+console("hello javascript")
